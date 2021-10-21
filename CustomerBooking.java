@@ -1,7 +1,7 @@
 
 /**
  * Ifeoma Aniekwena 
- *Student ID:C20390733
+ *Student: Year 2 
  *The customer booking program
  */
 //2.)Define Customer Booking
