@@ -1,7 +1,7 @@
 
 /**
  * Name:Ifeoma Aniewkena 
- * Student ID:C20390733
+ * Student Year 2
  *The events program
  */
 //1.)Define Event
