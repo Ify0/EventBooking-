@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * This is the event Driver 
  *Name:Ifeoma Aniekwena
- * Student ID:C20390733
+ * Student Year 2
  */
 public class EventDriver
 {
