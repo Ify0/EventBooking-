@@ -1,7 +1,6 @@
 
-/**
- * Ifeoma Aniekwena 
- *Student: Year 2 
+/** 
+ *Student: Year 1
  *The customer booking program
  */
 //2.)Define Customer Booking
