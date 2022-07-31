@@ -1,6 +1,5 @@
 
 /**
- * Name:Ifeoma Aniewkena 
  * Student Year 2
  *The events program
  */
