@@ -2,8 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 /**
  * This is the event Driver 
- *Name:Ifeoma Aniekwena
- * Student Year 2
+ * Student Year 1
  */
 public class EventDriver
 {
